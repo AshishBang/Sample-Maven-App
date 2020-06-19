@@ -1,1 +1,1 @@
-# Sample-Maven-App - Webhook Testing
+# Sample-Maven-App -Webhook Testing
